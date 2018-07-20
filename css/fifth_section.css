@@ -1,0 +1,94 @@
+.fifth_section {
+    background-color: #fcfcfc;
+}
+
+#causes {
+    margin-top: 91px;
+}
+
+.reasons_for_choosing {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 69px;
+    padding-left: 0;
+}
+
+.other_products {
+    margin: 110px 80px 0 80px;
+    border: #efe1c4 solid 4px;
+}
+
+.addition_cupboards {
+    margin-top: -40px;
+    text-align: center;
+}
+
+#addition_cupboards {
+    display: inline-block;
+    background: #fcfcfc;
+    padding: 0 25px;
+    font-family: 'Roboto Slab', serif;
+    color:  #010000;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.other_products_items {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 55px;
+}
+
+.element {
+    margin-left: 40px;
+    margin-top: -28px;
+}
+
+.problems_and_resolution {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 141px 50px;
+}
+
+.problem_items {
+    margin-top: 56px;
+}
+
+.problem_item {
+    display: flex;
+}
+
+.problem_info {
+    display: flex;
+    width: 370px;
+    height: 110px;
+}
+
+.resolution_info {
+    display: flex;
+    width: 529px;
+    height: 110px;
+}
+
+.problem_item p {
+    margin: auto 30px;
+}
+.problem_img, .resolution_img {
+    margin: auto 0;
+    width: 85px;
+    height: 78px;
+}
+.arrow {
+    width: 17px;
+    height: 26px;
+    margin: auto 49px auto 61px;
+}
+

@@ -1,0 +1,109 @@
+.third_section {
+    margin-top: 40px;
+}
+
+.popular_cupboard {
+    font-family: 'Roboto Slab', serif;
+    color:  #010000;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.application_of {
+    display: flex;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 32px;
+    padding-left: 0;
+}
+
+.item {
+    border-radius: 50px;
+    background-color: transparent;
+    border: solid #bfaa7e 1px;
+    margin: 0 7px 0 7px;
+    font-weight: 400;
+}
+
+.item:hover {
+    background-color: #ddc99f;
+}
+
+.color {
+    display: flex;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 32px;
+}
+
+.band {
+    background-color:  #efe1c4;
+    height: 1px;
+    margin: 16px 79px 0 40px;
+}
+
+#application_of {
+    margin-left: 47px;
+}
+
+.catalog {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 39px;
+}
+
+.catalog_item {
+    background-color:  #ffffff;
+    border: #e1e1e1 solid 1px;
+    margin-bottom: 34px;
+    width: 363px;
+}
+
+.item_img {
+    margin: 5px 4px 23px 4px;
+}
+
+.item_info {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color:  #000000;
+    font-weight: 400;
+}
+
+.price_item {
+    font-family: 'Roboto Slab', serif;
+    color:  #010000;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: -27px;
+}
+
+.price_for_whom {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    margin-top: -23px;
+}
+
+.btn_calculate {
+    background-color: transparent;
+    border: #a05835 solid 2px;
+    border-radius: 4px;
+    outline: none;
+    width: 246px;
+    height: 44px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 30px 0 32px 0;
+}
+
+.btn_calculate:hover {
+    color: #a05835;
+    border-color: #a05835;
+    opacity: 0.9;
+}
+

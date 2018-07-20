@@ -1,0 +1,63 @@
+.first_section {
+    height: 73px;
+    background-color: #281001;
+    position: relative;
+}
+
+.logo {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color:  #fefefe;
+    margin-top: 20px;
+}
+
+.region {
+    color: #ffeb10;
+    text-transform: uppercase;
+}
+
+.manufacturer {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    opacity: 0.5;
+    margin-left: -70px;
+    margin-top: 23px;
+}
+
+.phone {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px 0 0 58px;
+    font-weight: 400;
+}
+
+.phone:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.phone a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.number {
+    color: #ffeb10;
+}
+
+.ghost-button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 2px;
+    border-color: #ffeb10;
+    background-color: transparent;
+    color: #ffeb10;
+    width: 191px;
+    height: 36px;
+    outline: none;
+    margin: 20px 0 0 25px;
+}

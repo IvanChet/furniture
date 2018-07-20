@@ -1,0 +1,51 @@
+.eighth_section {
+    background:  #f1ede5 url("../image/pattern.png");
+    height: 716px;
+    background-size: 100%;
+    margin-top: 64px;
+}
+
+.customer_reviews {
+    font-family: 'Roboto Slab', serif;
+    color:  #010000;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.clients {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color:  #000000;
+    margin-top: 30px;
+}
+
+.client_one, .client_two, .client_tree {
+    display: flex;
+}
+
+.client {
+    text-align: center;
+}
+
+.review {
+    background: url("../image/bg_reviews.png") no-repeat;
+    padding: 33px 47px 35px 56px;
+    font-weight: 400;
+    margin: 12px 0 0 24px;
+}
+
+.client_name {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.client_name:hover {
+    opacity: 0.2;
+    cursor: pointer;
+}
+
+.client img:hover {
+    cursor: pointer;
+    opacity: 0.2;
+}

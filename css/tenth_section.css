@@ -1,0 +1,40 @@
+.info_map {
+    position: absolute;
+    z-index: 9999999;
+    background-color: #ffffff;
+    width: 360px;
+    height: 166px;
+    margin-left: 66.7%;
+    margin-top: 190px;
+    color:  #000000;
+}
+
+.info_map:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.info_map:active {
+    display: none;
+}
+
+.contacts {
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 51px 0 0 24px;
+}
+
+.address {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    margin-left: 24px;
+}
+
+.map {
+    width: 100%;
+    height: 523px;
+}
+
+

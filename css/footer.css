@@ -1,0 +1,108 @@
+.footer_one {
+    background-color: #fcfcfc;
+    margin-top: -8px;
+    padding-top: 36px;
+    height: 130px;
+}
+
+.logo_footer {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color:  #000000;
+    margin-top: 17px;
+}
+
+.region_footer {
+    color:  #000000;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.manufacturer_footer {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-left: -90px;
+    margin-top: 23px;
+    color:  #000000;
+}
+
+.phone_footer {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    margin:17px 0 0 58px;
+    font-weight: 400;
+}
+
+.phone_footer:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+.phone_footer a {
+    color:  #000000;
+    text-decoration: none;
+}
+
+.ghost_button_footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 4px;
+    background-color: transparent;
+    color:  #000000;
+    width: 191px;
+    height: 36px;
+    outline: none;
+    margin: 15px 0 0 70px;
+    border: #ffeb10 solid 2px;
+}
+
+.ghost_button_footer:hover {
+    background-color: #ffeb10;
+}
+
+.footer_two {
+    background-color:  #f3f3f3;
+    height: 63px;
+}
+
+.logo_info {
+    display: flex;
+}
+
+.brandmaker {
+    color: #205aa7;
+    font-size: 18px;
+    font-style: italic;
+    margin: 17px 0 0 0;
+}
+
+.internet_agency {
+    color:  #000000;
+    font-size: 11px;
+    opacity: 0.3;
+    margin: -5px 0 0 0;
+}
+
+.site_creation {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color:  #000000;
+    margin:24px 0 0 9px;
+}
+
+.link {
+    margin-top: 4px;
+    display: flex;
+    margin-left: 44px;
+}
+
+.link_company {
+    margin: 20px 0 0 5px;
+}
+
+.logo_img {
+    margin: 12px 0 0 0;
+}
